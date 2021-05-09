@@ -1,0 +1,37 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Anukrishnan MK</h2>
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Drawing</li>
+    <li>Photography</li>
+    <li>Programming</li>
+    <li>Computer Science</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Web Design with HTML ,java ,C programming</li>
+  </ul>
+  <p class="head">Education</p>
+    <a href="http://www.sahrdaya.ac.in">
+      <li>Sahrdaya collage of engineering and technology</li>
+    </a>
+    
+      <li>St.antonys higher secondary school</li>
+    </a>
+    
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>NSS</li>
+    <li>ECO Club</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Anukrishnan MK</h2></div>
